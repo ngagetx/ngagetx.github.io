@@ -1,0 +1,1 @@
+function mobileNavToggle(){document.getElementById("vertical-nav").style.display="block"}
